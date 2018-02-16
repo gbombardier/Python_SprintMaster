@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//SprintMaster2017_client/sprintmaster_client.py=utf-8
+encoding//SprintMaster2017_client/sprintmaster_vue.py=utf-8
+encoding//SprintMaster2017_serveur/SprintMaster2017_BD/basedonnee_serveur.py=utf-8
+encoding//SprintMaster2017_serveur/modules/projet/cas_usage/cas_usage.py=utf-8
+encoding//SprintMaster2017_serveur/modules/projet/cas_usage/cas_usage_vue.py=utf-8
+encoding//SprintMaster2017_serveur/modules/projet/planif/planif_vue.py=utf-8
+encoding//SprintMaster2017_serveur/modules/projet/projet.py=utf-8
+encoding//SprintMaster2017_serveur/modules/projet/projet_vue.py=utf-8
+encoding//SprintMaster2017_serveur/modules/projet/sprint/sprint_vue.py=utf-8
+encoding//SprintMaster2017_serveur/outils/meta_sql/meta_sql_vue.py=utf-8
+encoding//SprintMaster2017_serveur/sprintmaster_serveur.py=utf-8
+encoding//SprintMaster2017_serveur/sprintmaster_sql.py=utf-8
